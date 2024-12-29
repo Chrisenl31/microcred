@@ -1,11 +1,10 @@
-# FinalProject-BackendDevelopment-2023
-BNCC Final Project
+# Capstone Project
+Microcredential Capstone Project
 
-Final Project LnT Backend 2023 menggunakan laravel 9.* PHP 8.0.25
+Capstone Project Cloud Computing Service menggunakan layanan dari Alibaba Cloud
 
-Nama Kelompok:
-  1. Nico Himawan, 2602060722
-  2. Calvin Farrellino Kurniawan, 2602085883
+oleh:
+Christian Marcello Dwisusanto - 187221013
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
